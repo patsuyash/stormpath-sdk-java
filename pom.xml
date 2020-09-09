@@ -103,7 +103,7 @@
         <oltu.version>1.0.2</oltu.version>
         <jsp.version>2.3.1</jsp.version>
         <joda-time.version>2.9.4</joda-time.version>
-        <snakeyaml.version>1.17</snakeyaml.version>
+        <snakeyaml.version>1.26</snakeyaml.version>
         <servlet.version>3.1.0</servlet.version>
         <spring.version>4.3.2.RELEASE</spring.version>
         <spring.boot.version>1.4.0.RELEASE</spring.boot.version>
